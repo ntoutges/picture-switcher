@@ -1,4 +1,4 @@
-# picture-switcher
+# Picture Switcher
 Firmware to run the picture switcher device
 
 ### Physical device:
