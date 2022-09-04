@@ -12,7 +12,7 @@
 // next page (default) indicates the page id to move to when the page is to move, but the button has not been pressed
 
 const byte table[][5] {
-  { 0, 245, 2, RANDOM, LIGHT | BUTTON },
-  { 1, 0,   0, 2,      TIME | BUTTON },
-  { 2, 90,  1, RANDOM, BUTTON }
+  { 0, 245, 2, RANDOM, SWITCH_BUTTON },
+  { 1, 0,   0, 2,      SWITCH_BUTTON },
+  { 2, 90,  1, RANDOM, SWITCH_BUTTON }
 };
